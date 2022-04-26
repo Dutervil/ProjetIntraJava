@@ -132,6 +132,8 @@ public static Client  saisirCLient(){
              System.out.println("       D) GESTION CLIENTS");
              System.out.println("       E) RAPPORT VOITURES");
              System.out.println("       F) AIDE");
+             System.out.println("       F) AIDE");
+             System.out.println("       F) AIDE");
 
              Scanner sc=new Scanner(System.in);
 
